@@ -866,7 +866,8 @@ a {
   }
 }
 
-.seo-text {
+.seo-text,
+.seo-gallery {
   position: absolute;
   width: 1px;
   height: 1px;
